@@ -11,4 +11,4 @@ let image1 = document.querySelector('#spinosaurus')
      image2.onmouseenter = (e) => {image2.setAttribute('src','images/aregentinosaurrus_scale.png');};
      image2.onmouseleave = (e) => {image2.setAttribute('src','images/argentinosaurus_bw.jpg');};
 
-     // code structure credit to Mindy McAdams
+     //code structure credit to Mindy McAdams//
